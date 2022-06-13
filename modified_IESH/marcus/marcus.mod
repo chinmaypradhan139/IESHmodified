@@ -1,0 +1,83 @@
+GFORTRAN module version '10' created from marcus_plot.f90
+MD5:7ab81d228759383f75cdac726d7f15ff -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () () ()
+() () ())
+
+()
+
+()
+
+()
+
+()
+
+()
+
+(2 '__convert_r4_r8' '(intrinsic)' '' 1 ((PROCEDURE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 FUNCTION ELEMENTAL PURE) (REAL 8 0 0 0
+REAL ()) 0 0 () () 2 () () () 0 0)
+3 'dg' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+4 'er' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+5 'f' 'marcus' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN
+0 0 FUNCTION) (REAL 8 0 0 0 REAL ()) 6 0 (7) () 5 () () () 0 0)
+8 'g' 'marcus' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN
+0 0 FUNCTION) (REAL 8 0 0 0 REAL ()) 9 0 (10) () 8 () () () 0 0)
+11 'gama' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+12 'gh' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+13 'inpot' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0 DIMENSION) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT
+(CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0
+INTEGER ()) 0 '14')) 0 () () () 0 0)
+14 'kt' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+15 'marcus' 'marcus' '' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () () 0 () () () 0 0)
+16 'marcus_integration' 'marcus' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0
+0 () () 0 () () () 0 0)
+17 'marcus_plot' 'marcus' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 18 0 (19 20) ()
+0 () () () 0 0)
+21 'mass' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+22 'omega' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+23 'pi' 'marcus' '' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () (CONSTANT (REAL 8 0 0 0
+REAL ()) 0 '0.3243fe40000000@1') () 0 () () () 0 0)
+24 'rb' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+25 'rf' 'marcus' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+26 'simpson' 'marcus' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL
+UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 27 0 (28 29 30 31
+32) () 0 () () () 0 0)
+7 'x' '' '' 6 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+10 'x' '' '' 9 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0 DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+19 'kf' '' '' 18 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+20 'kb' '' '' 18 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+28 'f' '' '' 27 ((PROCEDURE UNKNOWN-INTENT DUMMY-PROC UNKNOWN UNKNOWN 0
+0 DUMMY FUNCTION) (REAL 8 0 0 0 REAL ()) 0 0 () () 28 () () () 0 0)
+29 'a' '' '' 27 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0 DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+30 'b' '' '' 27 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0 DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+31 'integral' '' '' 27 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+32 'n' '' '' 27 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+)
+
+('__convert_r4_r8' 0 2 'dg' 0 3 'er' 0 4 'f' 0 5 'g' 0 8 'gama' 0 11 'gh'
+0 12 'inpot' 0 13 'kt' 0 14 'marcus' 0 15 'marcus_integration' 0 16
+'marcus_plot' 0 17 'mass' 0 21 'omega' 0 22 'pi' 0 23 'rb' 0 24 'rf' 0
+25 'simpson' 0 26)
